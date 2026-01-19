@@ -1,5 +1,0 @@
-import pandas 
-import matplotlib.pyplot 
-import seaborn 
-import streamlit
-from matplotlib import ticker
